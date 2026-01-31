@@ -1,0 +1,640 @@
+[
+  {
+    "id": 1,
+    "nombre": "Jarrón de Barro de Chinautla",
+    "descripcion": "Jarrón artesanal elaborado con técnica ancestral de barro policromado de Chinautla. Cada pieza es única, moldeada a mano siguiendo tradiciones mayas.",
+    "precio": 450,
+    "categoria": "ceramica",
+    "tipo": "repetible",
+    "imagen": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=500&auto=format&fit=crop&fm=webp",
+    "galeria": [
+      "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=500&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?w=500&auto=format&fit=crop&fm=webp"
+    ],
+    "artesano": "María Lorenza Gutiérrez",
+    "origen": "Chinautla, Guatemala",
+    "disponibilidad": "En stock",
+    "stock": 5,
+    "dimensiones": "30cm alto x 15cm diámetro",
+    "materiales": [
+      "Barro de Chinautla",
+      "Pigmentos naturales"
+    ],
+    "cuidado": "Limpiar con paño seco o ligeramente húmedo. Evitar detergentes abrasivos. No exponer a cambios bruscos de temperatura. Solo uso decorativo, no apto para líquidos.",
+    "incluye": [
+      "Jarrón de barro",
+      "Certificado de autenticidad",
+      "Ficha del artesano",
+      "Empaque protector"
+    ],
+    "tiempoElaboracion": "3-5 días por pieza",
+    "historia": "Esta pieza se elabora en Chinautla, Guatemala por María Lorenza Gutiérrez. Se trabaja con Barro de Chinautla, Pigmentos naturales y tecnicas tradicionales, cuidando cada acabado para mantener la autenticidad.",
+    "proceso": [
+      "Seleccion y preparacion del barro local.",
+      "Modelado y secado controlado en taller.",
+      "Horneado y aplicacion de esmaltes o pigmentos.",
+      "Acabados finales y control de calidad."
+    ],
+    "cupos": {
+      "periodo": "semanal",
+      "total": 12,
+      "disponibles": 5
+    }
+  },
+  {
+    "id": 2,
+    "nombre": "Huipil de San Juan Sacatepéquez",
+    "descripcion": "Huipil tejido a mano en telar de cintura con hilos de algodón. Diseño tradicional con motivos geométricos y florales característicos de San Juan Sacatepéquez.",
+    "precio": 1800,
+    "categoria": "textil",
+    "tipo": "edicion_limitada",
+    "imagen": "https://images.unsplash.com/photo-1606722590583-6951b5ea92ad?w=500&auto=format&fit=crop&fm=webp",
+    "galeria": [
+      "https://images.unsplash.com/photo-1606722590583-6951b5ea92ad?w=500&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=500&auto=format&fit=crop&fm=webp"
+    ],
+    "artesano": "Cooperativa Mujeres Tejedoras",
+    "origen": "San Juan Sacatepéquez, Guatemala",
+    "disponibilidad": "Últimas piezas",
+    "stock": 2,
+    "dimensiones": "70cm x 50cm",
+    "materiales": [
+      "Algodón 100%",
+      "Tintes naturales"
+    ],
+    "cuidado": "Lavado a mano recomendado con agua fría y jabón neutro. No exprimir, secar extendido a la sombra. Planchar a temperatura baja por el revés.",
+    "incluye": [
+      "Huipil tejido",
+      "Bolsa de algodón para guardado",
+      "Certificado de autenticidad",
+      "Historia de la técnica"
+    ],
+    "tiempoElaboracion": "3-4 semanas por pieza",
+    "historia": "Esta pieza se elabora en San Juan Sacatepéquez, Guatemala por Cooperativa Mujeres Tejedoras. Se trabaja con Algodón 100%, Tintes naturales y tecnicas tradicionales, cuidando cada acabado para mantener la autenticidad.",
+    "proceso": [
+      "Seleccion de hilos y planificacion del diseno.",
+      "Tenido tradicional con pigmentos naturales.",
+      "Tejido manual en telar o bordado artesanal.",
+      "Revision de medidas y acabados."
+    ],
+    "cupos": {
+      "periodo": "edici?n",
+      "total": 10,
+      "disponibles": 2
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "Máscara Ceremonial de Chichicastenango",
+    "descripcion": "Máscara tallada a mano en madera de pino, pintada con pigmentos naturales. Representa personajes del Baile de la Conquista.",
+    "precio": 950,
+    "categoria": "madera",
+    "tipo": "repetible",
+    "imagen": "https://images.unsplash.com/photo-1582913130063-70a84fe9c8fa?w=500&auto=format&fit=crop&fm=webp",
+    "galeria": [
+      "https://images.unsplash.com/photo-1582913130063-70a84fe9c8fa?w=500&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1578321272176-b7bbc0679853?w=500&auto=format&fit=crop&fm=webp"
+    ],
+    "artesano": "Familia Morales Ajpop",
+    "origen": "Chichicastenango, Quiché",
+    "disponibilidad": "En stock",
+    "stock": 8,
+    "dimensiones": "28cm x 22cm x 12cm",
+    "materiales": [
+      "Madera de pino blanco",
+      "Pinturas naturales",
+      "Barniz protector"
+    ],
+    "cuidado": "Mantener en lugar seco, alejado de la luz solar directa. Limpiar con paño seco. Evitar golpes y caídas. No exponer a humedad extrema.",
+    "incluye": [
+      "Máscara tallada y pintada",
+      "Base de exhibición",
+      "Certificado de autenticidad",
+      "Ficha del artesano"
+    ],
+    "tiempoElaboracion": "1-2 semanas por pieza",
+    "historia": "Esta pieza se elabora en Chichicastenango, Quiché por Familia Morales Ajpop. Se trabaja con Madera de pino blanco, Pinturas naturales y tecnicas tradicionales, cuidando cada acabado para mantener la autenticidad.",
+    "proceso": [
+      "Seleccion y curado de la madera.",
+      "Tallado manual de la pieza.",
+      "Pulido, pintura y proteccion final.",
+      "Control de calidad y empaque."
+    ],
+    "cupos": {
+      "periodo": "semanal",
+      "total": 16,
+      "disponibles": 8
+    }
+  },
+  {
+    "id": 4,
+    "nombre": "Alfombra de Momostenango",
+    "descripcion": "Alfombra tejida en lana de oveja teñida con tintes naturales. Diseño geométrico tradicional de Momostenango.",
+    "precio": 2200,
+    "categoria": "textil",
+    "tipo": "por_encargo",
+    "imagen": "https://images.unsplash.com/photo-1600166898405-da9535204843?w=500&auto=format&fit=crop&fm=webp",
+    "galeria": [
+      "https://images.unsplash.com/photo-1600166898405-da9535204843?w=500&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1531835551805-16d864c8d311?w=500&auto=format&fit=crop&fm=webp"
+    ],
+    "artesano": "Familia Tzul",
+    "origen": "Momostenango, Totonicapán",
+    "disponibilidad": "Por encargo (4-6 semanas)",
+    "stock": 0,
+    "dimensiones": "150cm x 100cm",
+    "materiales": [
+      "Lana de oveja 100%",
+      "Tintes naturales (cochinilla, añil, sacatinta)"
+    ],
+    "cuidado": "Aspirar regularmente. Limpiar manchas inmediatamente con agua y jabón neutro. Lavado profesional recomendado cada 1-2 años. No exponer a sol directo prolongado.",
+    "incluye": [
+      "Alfombra tejida a mano",
+      "Certificado de autenticidad",
+      "Guía de cuidado impresa",
+      "Historia de los tintes naturales"
+    ],
+    "tiempoElaboracion": "4-6 semanas",
+    "historia": "Esta pieza se elabora en Momostenango, Totonicapán por Familia Tzul. Se trabaja con Lana de oveja 100%, Tintes naturales (cochinilla, añil, sacatinta) y tecnicas tradicionales, cuidando cada acabado para mantener la autenticidad.",
+    "proceso": [
+      "Seleccion de hilos y planificacion del diseno.",
+      "Tenido tradicional con pigmentos naturales.",
+      "Tejido manual en telar o bordado artesanal.",
+      "Revision de medidas y acabados."
+    ],
+    "cupos": {
+      "periodo": "semanal",
+      "total": 6,
+      "disponibles": 4
+    },
+    "cola": "1-2 semanas"
+  },
+  {
+    "id": 5,
+    "nombre": "Cerámica Mayólica de Antigua",
+    "descripcion": "Florero de cerámica mayólica pintado a mano con diseño floral tradicional. Técnica colonial guatemalteca con esmalte vidriado.",
+    "precio": 680,
+    "categoria": "ceramica",
+    "tipo": "repetible",
+    "imagen": "https://images.unsplash.com/photo-1612196808214-b8e1d6145a8c?w=500&auto=format&fit=crop&fm=webp",
+    "galeria": [
+      "https://images.unsplash.com/photo-1612196808214-b8e1d6145a8c?w=500&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?w=500&auto=format&fit=crop&fm=webp"
+    ],
+    "artesano": "Taller Casa del Tejido",
+    "origen": "Antigua Guatemala, Sacatepéquez",
+    "disponibilidad": "En stock",
+    "stock": 12,
+    "dimensiones": "25cm alto x 12cm diámetro",
+    "materiales": [
+      "Barro de alta temperatura",
+      "Esmalte cerámico",
+      "Pigmentos minerales"
+    ],
+    "cuidado": "Apto para uso con agua y flores. Lavar con agua y jabón suave. No usar en microondas ni lavavajillas. Manipular con cuidado, es frágil.",
+    "incluye": [
+      "Florero de cerámica",
+      "Certificado de origen",
+      "Ficha del taller",
+      "Empaque protector"
+    ],
+    "tiempoElaboracion": "5-7 días por pieza",
+    "historia": "Esta pieza se elabora en Antigua Guatemala, Sacatepéquez por Taller Casa del Tejido. Se trabaja con Barro de alta temperatura, Esmalte cerámico y tecnicas tradicionales, cuidando cada acabado para mantener la autenticidad.",
+    "proceso": [
+      "Seleccion y preparacion del barro local.",
+      "Modelado y secado controlado en taller.",
+      "Horneado y aplicacion de esmaltes o pigmentos.",
+      "Acabados finales y control de calidad."
+    ],
+    "cupos": {
+      "periodo": "semanal",
+      "total": 24,
+      "disponibles": 12
+    }
+  },
+  {
+    "id": 6,
+    "nombre": "Nacimiento de Barro",
+    "descripcion": "Nacimiento tradicional guatemalteco elaborado en barro policromado. Incluye todas las figuras tradicionales con vestimenta típica maya.",
+    "precio": 1650,
+    "categoria": "ceramica",
+    "tipo": "edicion_limitada",
+    "imagen": "https://images.unsplash.com/photo-1490312278390-ab64016e0aa9?w=500&auto=format&fit=crop&fm=webp",
+    "galeria": [
+      "https://images.unsplash.com/photo-1490312278390-ab64016e0aa9?w=500&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=500&auto=format&fit=crop&fm=webp"
+    ],
+    "artesano": "Familia Reyes",
+    "origen": "Rabinal, Baja Verapaz",
+    "disponibilidad": "Pieza única",
+    "stock": 1,
+    "dimensiones": "45cm x 35cm x 15cm (conjunto)",
+    "materiales": [
+      "Barro de Rabinal",
+      "Pinturas acrílicas",
+      "Barniz protector"
+    ],
+    "cuidado": "Solo uso decorativo. Mantener en lugar seco y protegido. Limpiar con brocha suave. Evitar golpes, piezas muy delicadas.",
+    "incluye": [
+      "Set completo de nacimiento (12 piezas)",
+      "Caja de madera para guardado",
+      "Certificado de autenticidad numerado",
+      "Historia de la tradición"
+    ],
+    "tiempoElaboracion": "3-4 semanas por set",
+    "historia": "Esta pieza se elabora en Rabinal, Baja Verapaz por Familia Reyes. Se trabaja con Barro de Rabinal, Pinturas acrílicas y tecnicas tradicionales, cuidando cada acabado para mantener la autenticidad.",
+    "proceso": [
+      "Seleccion y preparacion del barro local.",
+      "Modelado y secado controlado en taller.",
+      "Horneado y aplicacion de esmaltes o pigmentos.",
+      "Acabados finales y control de calidad."
+    ],
+    "cupos": {
+      "periodo": "edici?n",
+      "total": 10,
+      "disponibles": 1
+    }
+  },
+  {
+    "id": 7,
+    "nombre": "Collar de Jade",
+    "descripcion": "Collar artesanal con cuentas de jade guatemalteco genuino, engarzado en plata. El jade era considerado más valioso que el oro por los mayas.",
+    "precio": 1800,
+    "categoria": "joyeria",
+    "tipo": "repetible",
+    "imagen": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=500&auto=format&fit=crop&fm=webp",
+    "galeria": [
+      "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=500&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=500&auto=format&fit=crop&fm=webp"
+    ],
+    "artesano": "Jades del Motagua",
+    "origen": "Zacapa, Guatemala",
+    "disponibilidad": "En stock",
+    "stock": 6,
+    "dimensiones": "45cm largo",
+    "materiales": [
+      "Jade guatemalteco genuino",
+      "Plata 925",
+      "Hilo de acero recubierto"
+    ],
+    "cuidado": "Guardar en bolsa de tela separado de otras joyas. Limpiar con paño suave. Evitar perfumes, cremas y químicos. No exponer a calor extremo.",
+    "incluye": [
+      "Collar de jade y plata",
+      "Estuche de joyería",
+      "Certificado de autenticidad del jade",
+      "Paño de limpieza"
+    ],
+    "tiempoElaboracion": "2-3 días por pieza",
+    "historia": "Esta pieza se elabora en Zacapa, Guatemala por Jades del Motagua. Se trabaja con Jade guatemalteco genuino, Plata 925 y tecnicas tradicionales, cuidando cada acabado para mantener la autenticidad.",
+    "proceso": [
+      "Seleccion de piedras y metales.",
+      "Diseno y ensamble manual.",
+      "Pulido y verificacion de acabados.",
+      "Control de calidad y empaque."
+    ],
+    "cupos": {
+      "periodo": "semanal",
+      "total": 12,
+      "disponibles": 6
+    }
+  },
+  {
+    "id": 8,
+    "nombre": "Máscara de Moro",
+    "descripcion": "Máscara ceremonial tallada en madera de cedro, utilizada en el tradicional Baile de Moros y Cristianos. Decorada con pintura y detalles dorados.",
+    "precio": 1200,
+    "categoria": "madera",
+    "tipo": "por_encargo",
+    "imagen": "https://images.unsplash.com/photo-1544967082-d9d25d867d66?w=500&auto=format&fit=crop&fm=webp",
+    "galeria": [
+      "https://images.unsplash.com/photo-1544967082-d9d25d867d66?w=500&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1578321272176-b7bbc0679853?w=500&auto=format&fit=crop&fm=webp"
+    ],
+    "artesano": "Maestro Domingo Sac",
+    "origen": "San Cristóbal Totonicapán",
+    "disponibilidad": "Por encargo (3-4 semanas)",
+    "stock": 0,
+    "dimensiones": "30cm x 24cm",
+    "materiales": [
+      "Madera de cedro",
+      "Pinturas al óleo",
+      "Hoja de oro"
+    ],
+    "cuidado": "Solo uso decorativo o ceremonial. Mantener en lugar seco. Limpiar con paño seco. No exponer a humedad. Incluye gancho para colgar.",
+    "incluye": [
+      "Máscara tallada y pintada",
+      "Soporte de pared",
+      "Certificado de autenticidad",
+      "Historia del Baile de Moros"
+    ],
+    "tiempoElaboracion": "3-4 semanas",
+    "historia": "Esta pieza se elabora en San Cristóbal Totonicapán por Maestro Domingo Sac. Se trabaja con Madera de cedro, Pinturas al óleo y tecnicas tradicionales, cuidando cada acabado para mantener la autenticidad.",
+    "proceso": [
+      "Seleccion y curado de la madera.",
+      "Tallado manual de la pieza.",
+      "Pulido, pintura y proteccion final.",
+      "Control de calidad y empaque."
+    ],
+    "cupos": {
+      "periodo": "semanal",
+      "total": 6,
+      "disponibles": 4
+    },
+    "cola": "1-2 semanas"
+  },
+  {
+    "id": 9,
+    "nombre": "Corte Típico de Quetzaltenango",
+    "descripcion": "Corte (falda) tradicional tejido a mano con motivos característicos de Quetzaltenango. Cada pieza lleva más de 150 horas de trabajo en telar de pie.",
+    "precio": 2400,
+    "categoria": "textil",
+    "tipo": "edicion_limitada",
+    "imagen": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=500&auto=format&fit=crop&fm=webp",
+    "galeria": [
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=500&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1606722590583-6951b5ea92ad?w=500&auto=format&fit=crop&fm=webp"
+    ],
+    "artesano": "Tejedoras de Xela",
+    "origen": "Quetzaltenango, Guatemala",
+    "disponibilidad": "Últimas piezas",
+    "stock": 3,
+    "dimensiones": "300cm x 80cm",
+    "materiales": [
+      "Algodón jaspeado 100%",
+      "Hilos de seda para bordados"
+    ],
+    "cuidado": "Lavar a mano con agua fría y jabón neutro. No exprimir, secar extendido a la sombra. Planchar al revés a temperatura media. Guardar enrollado.",
+    "incluye": [
+      "Corte tejido",
+      "Faja tradicional",
+      "Bolsa de manta para guardado",
+      "Certificado de autenticidad"
+    ],
+    "tiempoElaboracion": "4-6 semanas (150+ horas de tejido)",
+    "historia": "Esta pieza se elabora en Quetzaltenango, Guatemala por Tejedoras de Xela. Se trabaja con Algodón jaspeado 100%, Hilos de seda para bordados y tecnicas tradicionales, cuidando cada acabado para mantener la autenticidad.",
+    "proceso": [
+      "Seleccion de hilos y planificacion del diseno.",
+      "Tenido tradicional con pigmentos naturales.",
+      "Tejido manual en telar o bordado artesanal.",
+      "Revision de medidas y acabados."
+    ],
+    "cupos": {
+      "periodo": "edici?n",
+      "total": 10,
+      "disponibles": 3
+    }
+  },
+  {
+    "id": 10,
+    "nombre": "Réplica Estela Maya",
+    "descripcion": "Réplica en piedra tallada de estela maya de Quiriguá. Representa glifos y figuras ceremoniales de la cultura maya clásica.",
+    "precio": 750,
+    "categoria": "piedra",
+    "tipo": "repetible",
+    "imagen": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=500&auto=format&fit=crop&fm=webp",
+    "galeria": [
+      "https://images.unsplash.com/photo-1551632811-561732d1e306?w=500&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1490312278390-ab64016e0aa9?w=500&auto=format&fit=crop&fm=webp"
+    ],
+    "artesano": "Taller Piedra Maya",
+    "origen": "Quiriguá, Izabal",
+    "disponibilidad": "En stock",
+    "stock": 10,
+    "dimensiones": "20cm x 10cm x 5cm",
+    "materiales": [
+      "Piedra volcánica",
+      "Tallado a mano"
+    ],
+    "cuidado": "Manipular con cuidado. Limpiar con paño suave y seco. Puede colocarse en exteriores protegidos. Evitar golpes.",
+    "incluye": [
+      "Réplica de estela tallada",
+      "Base de madera",
+      "Certificado de autenticidad",
+      "Información sobre los glifos"
+    ],
+    "tiempoElaboracion": "2-4 días por pieza",
+    "historia": "Esta pieza se elabora en Quiriguá, Izabal por Taller Piedra Maya. Se trabaja con Piedra volcánica, Tallado a mano y tecnicas tradicionales, cuidando cada acabado para mantener la autenticidad.",
+    "proceso": [
+      "Seleccion de la piedra y trazado de diseno.",
+      "Tallado manual con herramientas tradicionales.",
+      "Pulido y revision de detalles.",
+      "Control de calidad y empaque protector."
+    ],
+    "cupos": {
+      "periodo": "semanal",
+      "total": 20,
+      "disponibles": 10
+    }
+  },
+  {
+    "id": 11,
+    "nombre": "Canasta de Tule",
+    "descripcion": "Canasta tejida a mano con tule del Lago de Atitlán. Técnica ancestral de las comunidades Tz'utujil.",
+    "precio": 180,
+    "categoria": "fibras",
+    "tipo": "repetible",
+    "imagen": "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?w=500&auto=format&fit=crop&fm=webp",
+    "galeria": [
+      "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?w=500&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1600166898405-da9535204843?w=500&auto=format&fit=crop&fm=webp"
+    ],
+    "artesano": "Mujeres de San Juan La Laguna",
+    "origen": "San Juan La Laguna, Sololá",
+    "disponibilidad": "En stock",
+    "stock": 15,
+    "dimensiones": "30cm diámetro x 20cm alto",
+    "materiales": [
+      "Tule del Lago de Atitlán",
+      "Tintes naturales"
+    ],
+    "cuidado": "Mantener en lugar seco y ventilado. Limpiar con paño húmedo. Puede perder color si se expone al sol directo. No sumergir en agua.",
+    "incluye": [
+      "Canasta de tule tejida",
+      "Etiqueta del artesano"
+    ],
+    "tiempoElaboracion": "1-2 días por pieza",
+    "historia": "Esta pieza se elabora en San Juan La Laguna, Sololá por Mujeres de San Juan La Laguna. Se trabaja con Tule del Lago de Atitlán, Tintes naturales y tecnicas tradicionales, cuidando cada acabado para mantener la autenticidad.",
+    "proceso": [
+      "Recoleccion y preparacion de fibras naturales.",
+      "Tejido manual y armado de la pieza.",
+      "Ajuste de medidas y acabados.",
+      "Control de calidad y empaque."
+    ],
+    "cupos": {
+      "periodo": "semanal",
+      "total": 30,
+      "disponibles": 15
+    }
+  },
+  {
+    "id": 12,
+    "nombre": "Barrilete Gigante de Sumpango",
+    "descripcion": "Barrilete (cometa) decorativo en miniatura, réplica de los famosos barriletes gigantes del Día de los Santos. Arte efímero convertido en pieza permanente.",
+    "precio": 320,
+    "categoria": "papel",
+    "tipo": "repetible",
+    "imagen": "https://images.unsplash.com/photo-1509557965875-b88c97052f0e?w=500&auto=format&fit=crop&fm=webp",
+    "galeria": [
+      "https://images.unsplash.com/photo-1509557965875-b88c97052f0e?w=500&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=500&auto=format&fit=crop&fm=webp"
+    ],
+    "artesano": "Asociación de Barrileteros",
+    "origen": "Sumpango, Sacatepéquez",
+    "disponibilidad": "En stock",
+    "stock": 20,
+    "dimensiones": "60cm x 60cm",
+    "materiales": [
+      "Papel de china",
+      "Caña de castilla",
+      "Pegamento natural"
+    ],
+    "cuidado": "Solo uso decorativo de interiores. Evitar humedad y luz solar directa. Limpiar con brocha suave. Pieza muy delicada.",
+    "incluye": [
+      "Barrilete decorativo",
+      "Marco para exhibición",
+      "Tarjeta con historia de la tradición"
+    ],
+    "tiempoElaboracion": "1-2 días por pieza",
+    "historia": "Esta pieza se elabora en Sumpango, Sacatepéquez por Asociación de Barrileteros. Se trabaja con Papel de china, Caña de castilla y tecnicas tradicionales, cuidando cada acabado para mantener la autenticidad.",
+    "proceso": [
+      "Seleccion de papel y materiales estructurales.",
+      "Armado y diseno manual de la pieza.",
+      "Aplicacion de detalles y refuerzos.",
+      "Control de calidad y empaque."
+    ],
+    "cupos": {
+      "periodo": "semanal",
+      "total": 40,
+      "disponibles": 20
+    }
+  },
+  {
+    "id": 13,
+    "nombre": "Marimba de Concierto",
+    "descripcion": "Marimba artesanal de doble teclado construida con hormigo (madera sagrada maya). Sonido excepcional, fabricación tradicional de Guatemala.",
+    "precio": 15000,
+    "categoria": "madera",
+    "tipo": "por_encargo",
+    "imagen": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=500&auto=format&fit=crop&fm=webp",
+    "galeria": [
+      "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=500&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1578321272176-b7bbc0679853?w=500&auto=format&fit=crop&fm=webp"
+    ],
+    "artesano": "Maestro Marimbero López",
+    "origen": "Quetzaltenango, Guatemala",
+    "disponibilidad": "Por encargo (10-14 semanas)",
+    "stock": 0,
+    "dimensiones": "180cm x 60cm x 100cm",
+    "materiales": [
+      "Madera de hormigo",
+      "Cajas de resonancia de cedro",
+      "Teclas cromáticas de hormigo"
+    ],
+    "cuidado": "Mantener en ambiente con humedad controlada (50-60%). Limpiar teclas con paño seco después de tocar. Afinar periódicamente. Cubrir cuando no se use.",
+    "incluye": [
+      "Marimba completa",
+      "Juego de baquetas profesionales",
+      "Funda protectora",
+      "Certificado de autenticidad",
+      "Guía de mantenimiento"
+    ],
+    "tiempoElaboracion": "10-14 semanas",
+    "historia": "Esta pieza se elabora en Quetzaltenango, Guatemala por Maestro Marimbero López. Se trabaja con Madera de hormigo, Cajas de resonancia de cedro y tecnicas tradicionales, cuidando cada acabado para mantener la autenticidad.",
+    "proceso": [
+      "Seleccion y curado de la madera.",
+      "Tallado manual de la pieza.",
+      "Pulido, pintura y proteccion final.",
+      "Control de calidad y empaque."
+    ],
+    "cupos": {
+      "periodo": "semanal",
+      "total": 6,
+      "disponibles": 4
+    },
+    "cola": "1-2 semanas"
+  },
+  {
+    "id": 14,
+    "nombre": "Aretes de Chaquira",
+    "descripcion": "Aretes elaborados con mostacilla (chaquira) en diseños geométricos tradicionales. Trabajo artesanal de precisión.",
+    "precio": 150,
+    "categoria": "joyeria",
+    "tipo": "repetible",
+    "imagen": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=500&auto=format&fit=crop&fm=webp",
+    "galeria": [
+      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=500&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=500&auto=format&fit=crop&fm=webp"
+    ],
+    "artesano": "Artesanas de Santiago Atitlán",
+    "origen": "Santiago Atitlán, Sololá",
+    "disponibilidad": "En stock",
+    "stock": 8,
+    "dimensiones": "6cm largo",
+    "materiales": [
+      "Mostacilla de vidrio",
+      "Hilo de nylon",
+      "Ganchos de acero quirúrgico"
+    ],
+    "cuidado": "Guardar en lugar seco. Evitar contacto con agua y perfumes. Limpiar con paño seco. Manipular con cuidado para no romper hilos.",
+    "incluye": [
+      "Par de aretes",
+      "Bolsita de tela",
+      "Tarjeta del artesano"
+    ],
+    "tiempoElaboracion": "1-2 días por par",
+    "historia": "Esta pieza se elabora en Santiago Atitlán, Sololá por Artesanas de Santiago Atitlán. Se trabaja con Mostacilla de vidrio, Hilo de nylon y tecnicas tradicionales, cuidando cada acabado para mantener la autenticidad.",
+    "proceso": [
+      "Seleccion de piedras y metales.",
+      "Diseno y ensamble manual.",
+      "Pulido y verificacion de acabados.",
+      "Control de calidad y empaque."
+    ],
+    "cupos": {
+      "periodo": "semanal",
+      "total": 16,
+      "disponibles": 8
+    }
+  },
+  {
+    "id": 15,
+    "nombre": "Mantel Bordado de Zacualpa",
+    "descripcion": "Mantel bordado a mano con diseños tradicionales de Zacualpa. Incluye 6 servilletas a juego. Bordado sobre manta de algodón.",
+    "precio": 580,
+    "categoria": "textil",
+    "tipo": "repetible",
+    "imagen": "https://images.unsplash.com/photo-1606722590583-6951b5ea92ad?w=500&auto=format&fit=crop&fm=webp",
+    "galeria": [
+      "https://images.unsplash.com/photo-1606722590583-6951b5ea92ad?w=500&auto=format&fit=crop&fm=webp",
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=500&auto=format&fit=crop&fm=webp"
+    ],
+    "artesano": "Bordadoras de Zacualpa",
+    "origen": "Zacualpa, Quiché",
+    "disponibilidad": "En stock",
+    "stock": 7,
+    "dimensiones": "150cm x 150cm (mantel) + 6 servilletas de 40cm x 40cm",
+    "materiales": [
+      "Manta de algodón 100%",
+      "Hilos de algodón bordados a mano"
+    ],
+    "cuidado": "Lavar a máquina en ciclo delicado con agua fría. No usar blanqueador. Secar a temperatura baja o al aire. Planchar a temperatura media si es necesario.",
+    "incluye": [
+      "Mantel bordado",
+      "6 servilletas a juego",
+      "Bolsa de manta para guardado",
+      "Tarjeta con historia del bordado"
+    ],
+    "tiempoElaboracion": "2-3 semanas por set",
+    "historia": "Esta pieza se elabora en Zacualpa, Quiché por Bordadoras de Zacualpa. Se trabaja con Manta de algodón 100%, Hilos de algodón bordados a mano y tecnicas tradicionales, cuidando cada acabado para mantener la autenticidad.",
+    "proceso": [
+      "Seleccion de hilos y planificacion del diseno.",
+      "Tenido tradicional con pigmentos naturales.",
+      "Tejido manual en telar o bordado artesanal.",
+      "Revision de medidas y acabados."
+    ],
+    "cupos": {
+      "periodo": "semanal",
+      "total": 14,
+      "disponibles": 7
+    }
+  }
+]

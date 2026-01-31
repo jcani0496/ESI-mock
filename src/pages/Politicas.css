@@ -1,0 +1,246 @@
+.politicas-page {
+  min-height: 100vh;
+}
+
+.politicas-header {
+  background: linear-gradient(135deg, var(--color-secondary) 0%, var(--color-muted) 100%);
+  color: var(--color-surface);
+  padding: 3rem 2rem;
+  text-align: center;
+}
+
+.politicas-header h1 {
+  font-family: var(--font-display);
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.politicas-header p {
+  color: #d4c8b8;
+  font-size: 1.1rem;
+}
+
+.politicas-container {
+  display: grid;
+  grid-template-columns: 250px 1fr;
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.politicas-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  position: sticky;
+  top: 100px;
+  height: fit-content;
+}
+
+.nav-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 1rem 1.25rem;
+  background: var(--color-surface);
+  border: 2px solid var(--color-border);
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1rem;
+  color: var(--color-muted);
+  text-align: left;
+  transition: all 0.2s ease;
+}
+
+.nav-btn:hover {
+  border-color: var(--color-primary);
+}
+
+.nav-btn.active {
+  background: var(--color-primary);
+  color: var(--color-surface);
+  border-color: var(--color-primary);
+}
+
+.nav-icon {
+  font-size: 1.2rem;
+}
+
+.politicas-content {
+  background: var(--color-surface);
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+}
+
+.policy-section h2 {
+  font-family: var(--font-display);
+  font-size: 1.8rem;
+  color: var(--color-secondary);
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid var(--color-border);
+}
+
+.policy-section h3 {
+  color: var(--color-secondary);
+  font-size: 1.2rem;
+  margin: 2rem 0 1rem;
+}
+
+.policy-section h3:first-of-type {
+  margin-top: 0;
+}
+
+.policy-section p {
+  color: var(--color-muted);
+  line-height: 1.8;
+  margin-bottom: 1rem;
+}
+
+.policy-section ul,
+.policy-section ol {
+  color: var(--color-muted);
+  line-height: 1.8;
+  margin-bottom: 1rem;
+  padding-left: 1.5rem;
+}
+
+.policy-section li {
+  margin-bottom: 0.5rem;
+}
+
+.info-box {
+  background: #fef8e8;
+  border-left: 4px solid var(--color-primary);
+  padding: 1rem 1.5rem;
+  border-radius: 0 8px 8px 0;
+  margin: 1.5rem 0;
+}
+
+.info-box p {
+  margin: 0;
+  color: #856404;
+}
+
+.warning-box {
+  background: var(--color-surface)3f3;
+  border-left: 4px solid #c44;
+  padding: 1rem 1.5rem;
+  border-radius: 0 8px 8px 0;
+  margin: 1.5rem 0;
+}
+
+.warning-box p {
+  color: #a33;
+  margin-bottom: 0.5rem;
+}
+
+.warning-box ul {
+  margin-bottom: 0;
+}
+
+.warning-box li {
+  color: var(--color-muted);
+}
+
+.payment-methods {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.payment-method {
+  background: var(--color-surface-alt);
+  padding: 1.5rem;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.method-icon {
+  font-size: 2.5rem;
+  display: block;
+  margin-bottom: 0.75rem;
+}
+
+.payment-method h4 {
+  color: var(--color-secondary);
+  margin: 0 0 0.5rem;
+}
+
+.payment-method p {
+  color: #7a6a5a;
+  font-size: 0.9rem;
+  margin: 0;
+}
+
+.politicas-cta {
+  background: var(--color-surface-alt);
+  padding: 3rem 2rem;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.politicas-cta h3 {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  color: var(--color-secondary);
+  margin-bottom: 0.5rem;
+}
+
+.politicas-cta p {
+  color: #7a6a5a;
+  margin-bottom: 1.5rem;
+}
+
+.btn {
+  display: inline-block;
+  padding: 1rem 2rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.btn-primary {
+  background: var(--color-primary);
+  color: var(--color-surface);
+}
+
+.btn-primary:hover {
+  background: #734623;
+}
+
+@media (max-width: 768px) {
+  .politicas-container {
+    grid-template-columns: 1fr;
+    padding: 1rem;
+  }
+
+  .politicas-nav {
+    position: static;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .nav-btn {
+    flex: 1 1 auto;
+    justify-content: center;
+    padding: 0.75rem 1rem;
+    font-size: 0.9rem;
+  }
+
+  .politicas-content {
+    padding: 1.5rem;
+  }
+
+  .policy-section h2 {
+    font-size: 1.5rem;
+  }
+
+  .politicas-header h1 {
+    font-size: 1.8rem;
+  }
+}
